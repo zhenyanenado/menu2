@@ -6,7 +6,7 @@ for(let i = 1; i<=5; i++){
 
 		grids[i-1].addEventListener('click', function(){
 
-			grids[4].style.height = '300px';
+			grids[4].style.height = '400px';
 
 			let others = grids.filter((currentValue)=>{
 
