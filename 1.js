@@ -158,7 +158,7 @@ let favesFalse = false;
 
 
 
-	if(window.innerWidth <= 979){
+	if(window.innerWidth == 979){
 		for(let i = 0; i <= 3; i++){
 
 			if(i != 3){
