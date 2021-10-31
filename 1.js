@@ -20,6 +20,8 @@ let favesFalse = false;
 		grids.push(document.getElementById('grid'+i));
 		grids[i-1].addEventListener('click', function(){
 
+
+
 				grids[4].style.opacity = 0;
 				grids[5].style.width = '80px';
 				grids[5].style.height = '80px';
@@ -72,10 +74,7 @@ let favesFalse = false;
 
 					if(this == grids[1]){
 
-						
-							alert(window.innerWidth)
-						
-						
+												
 
 					}
 
@@ -156,6 +155,28 @@ let favesFalse = false;
 	})
 }
 
+
+
+
+	if(window.innerWidth <= 979){
+		for(let i = 0; i <= 3; i++){
+
+			if(i != 3){
+				grids[i].style.marginTop = '-350px';
+				
+			}
+
+			grids[0].style.marginTop = '30px';
+			grids[3].style.marginTop = '-500px';
+
+			document.getElementById('grid6').style.marginTop = '-570px';
+			
+		}
+	}
+
+
+
+	
 	grids[5].addEventListener('click', function(){
 		grids[5].style.backgroundImage = 'url(newicon.png)';
 		grids[5].style.transform = 'rotate(360deg)';
