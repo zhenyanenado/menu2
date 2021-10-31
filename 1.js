@@ -72,9 +72,9 @@ let favesFalse = false;
 
 					if(this == grids[1]){
 
-						if(window.innerHeight < 950){
+						
 							alert(window.innerHeight)
-						}
+						
 						
 
 					}
