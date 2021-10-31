@@ -73,7 +73,7 @@ let favesFalse = false;
 					if(this == grids[1]){
 
 						
-							alert(window.innerHeight)
+							alert(window.innerWidth)
 						
 						
 
