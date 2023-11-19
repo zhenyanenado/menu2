@@ -187,36 +187,32 @@ body{
 	grid-column-start: 1;
 	grid-column-end: 1;
 	left: 120px;
-	border: 5px solid white;
 	background-size: 100%;
-	background-image: url('https://pbs.twimg.com/profile_images/1197309946171449345/WjKhdTbX_400x400.png');
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4di-bXC3H71EBUll_yD1f-2O2X-KjJw6wJJ4HAgKTGzwFWmbaa_Ra5wKR3r-y7-KQfas&usqp=CAU');
 }
 
 #grid9{
 	grid-column-start: 2;
-	grid-column-end: 2;	
+	grid-column-end: 3;	
 	left: 170px;	
-	border: 5px solid white;
 	background-size: 100%;
-	background-image: url('https://i1.sndcdn.com/artworks-000787105579-jkce5q-t500x500.jpg');
+	background-image: url('https://64.media.tumblr.com/686cf1c9c0559c354261de42afa590bb/3edc8ea081b9829f-7d/s1280x1920/d6b3bf196c76bbbc2d3880e5abc3547f36d8c894.jpg');
 }
 
 #grid10{
 	grid-column-start: 3;
 	grid-column-end: 3;	
 	left: 220px;
-	border: 5px solid white;
 	background-size: 100%;
-	background-image: url('https://i.pinimg.com/originals/a9/92/7a/a9927a9c1c9ff3000445276ab538f795.png');
+	background-image: url('https://www.silenthillmemories.net/music/osts/pics/sh2_ost_eu_01_box_front.jpg');
 }
 
 #grid11{
 	grid-column-start: 4;
 	grid-column-end: 4;	
 	left: 260px;
-	border: 5px solid white;
 	background-size: 100%;
-	background-image: url('https://www.pngitem.com/pimgs/m/244-2447042_the-last-of-us-part-ii-last-of.png');
+	background-image: url('https://overanalyses.files.wordpress.com/2014/06/laura2ea9.jpg');
 }
 
 #b1{
@@ -328,4 +324,3 @@ body{
 	background-size: 100%;
 	background-image: url('https://bettornado.ru/imagenews/%D1%85%D0%BE%D1%80%D1%80%D0%B8%D0%B7%D0%BE%D0%BD.jpg');
 }
-
